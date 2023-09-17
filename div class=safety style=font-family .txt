@@ -1,0 +1,16 @@
+<div class="safety" style="font-family: sans-serif; font-size: 20px;">
+.safety{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.photo{
+    width: 50%;
+    height: 100%;
+}
+
+.photo img{
+    width: 110%;
+    height: 100%;
+}
